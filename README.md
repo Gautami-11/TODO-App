@@ -25,3 +25,18 @@ A responsive and interactive To-Do List application built using React.js. This a
 
 📱 Mobile-responsive with intuitive UI using Tailwind CSS.
 
+## 🛠️ Tech Stack
+
+- ⚛️ React.js
+- 🎨 Tailwind CSS
+- 💾 localStorage
+- 🌍 GitHub Pages (for deployment)
+
+## 📥 Clone This Project
+
+```bash
+git clone https://github.com/gautami-11/TODO-App.git
+cd TODO-App
+npm install
+npm run dev
+
